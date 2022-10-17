@@ -11,7 +11,7 @@ export const Header = () => {
   return (
     <Section>
         <Logo>
-          <h1>API Food</h1>
+          <h1>Culinarify</h1>
         </Logo>
       <SearchBar />
       <LinkContainer whileHover={{ scale: 1.1 }}>
