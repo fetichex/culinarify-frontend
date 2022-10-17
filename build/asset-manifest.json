@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c7044833.js",
+    "static/media/imgLanding.png": "/static/media/imgLanding.85d83e75681c4b1607e3.png",
+    "static/media/FrederickatheGreatRegular.ttf": "/static/media/FrederickatheGreatRegular.69cef5dc99024da59d1e.ttf",
+    "static/media/MontserratSemiBold.ttf": "/static/media/MontserratSemiBold.04af9a9e62bb4c47bd55.ttf",
+    "static/media/dbImage.png": "/static/media/dbImage.ca8f100f51242d50cd8c.png",
+    "index.html": "/index.html",
+    "main.c7044833.js.map": "/static/js/main.c7044833.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c7044833.js"
+  ]
+}
